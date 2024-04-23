@@ -13,9 +13,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .expedu_icon{
     color:blue
 }
-
+h1{
+    color:blue;
+}
 .expedu_icon:hover{
   background-color: blue;
   color: white;
 
+}
+.bg-rpimary{
+    background-color: pink; !important;
 }
