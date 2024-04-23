@@ -8130,6 +8130,8 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-image: url(../assets/img/monkey.jpg);
+  background-position:-147px 245px;
 }
 
 .bg-secondary {
