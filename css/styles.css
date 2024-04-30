@@ -133,6 +133,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: calc(1.475rem + 2.7vw);
+  color: #f97fda;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -142,6 +143,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: calc(1.325rem + 0.9vw);
+  color: #f56262;
 }
 @media (min-width: 1200px) {
   h3, .h3 {
@@ -10972,4 +10974,25 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+.aaa{
+  background-color:rgb(38, 179, 255) ;
+  color: white;
+  border: 10px;
+  border-radius: 10px;
+  padding: 30px auto;
+  padding-left: 10px;
+}
+
+p.redred{
+  color:rgb(192, 21, 21);
+}
+span.blueblue{
+  color: pink;
+}
+.expedu_icon{
+  color:blue
+}
+.expedu_icon:hover{
+  color: #0dcaf0;
 }
