@@ -10996,3 +10996,13 @@ span.blueblue{
 .expedu_icon:hover{
   color: #0dcaf0;
 }
+.overflowtest{
+  font-size:18px;
+  background-color: #e9b827;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 15px;
+  margin: 30px auto;
+  overflow:hidden;
+  height: 185px;
+ }
